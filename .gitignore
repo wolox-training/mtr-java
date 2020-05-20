@@ -33,3 +33,5 @@ out/
 
 ### MACOS File System ###
 **/.DS_Store
+
+bin/

@@ -15,6 +15,4 @@ public class BookController {
     model.addAttribute("name", name);
     return "greeting";
   }
-
-
 }
